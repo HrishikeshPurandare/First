@@ -1,0 +1,3 @@
+This folder is a good place to put any API requests you may need to use while writing UI tests. This is common when writing fixtures to set up or clean up scenarios.
+
+Feel free to delete this file once you have added real API requests.

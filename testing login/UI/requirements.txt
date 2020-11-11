@@ -1,0 +1,5 @@
+antioch>=12.0.0,<13.0.0
+
+--index-url http://pypi.hudltools.com
+--trusted-host pypi.hudltools.com
+--extra-index-url https://pypi.org

@@ -1,0 +1,27 @@
+# Secrets
+hudl-passwords.json
+eureka-url.config
+
+# Log files
+antioch.log
+webdriver-logs/
+appium_server_*.log
+debug.log
+tags
+screenshots/
+docs/_build
+
+# Python and system files
+__pycache__
+python3env/
+venv/
+env/
+.idea/
+.DS_Store
+.vscode/
+*/**/*.pyc
+*.egg-info
+
+# Flaky test reporting
+*.features
+flaky_tests.html
