@@ -16,7 +16,7 @@ class HomePage(BasePage):
         return self.browser.wait.until_element_visible(*self.HOME_PAGE)
 
     def click_home_page(self):
-        return self.browser.wait.until_element_visible(*self.HOME_BUTTON).click() 
+        return self.browser.wait.until_element_visible(*self.HOME_BUTTON).click()
     
  
 
