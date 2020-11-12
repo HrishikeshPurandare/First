@@ -22,10 +22,10 @@ Feature: Login Page
 
 
 
-    Scenario: I Can create ne account on Hudl
-        Given I want to create new account on hudl as hudl coach
-        When I click on sign up button
-        Then I should be directed to my sign up page
+    # Scenario: I Can create new account on Hudl
+    #     Given I want to create new account on hudl as hudl coach
+    #     When I click on sign up button
+    #     Then I should be directed to my sign up page
 
     Scenario: I Can login with organisation
         Given I want to login with organisation credentials
