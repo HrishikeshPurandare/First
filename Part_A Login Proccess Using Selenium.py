@@ -24,7 +24,7 @@ feature_link = driver.find_element(By.LINK_TEXT, 'Log in').click()
 time.sleep(10)
 
 driver.find_element(By.ID, 'email').send_keys("hmpurandare44@gmail.com")
-driver.find_element(By.ID, 'password').send_keys("Hrishky44")
+driver.find_element(By.ID, 'password').send_keys("****")
 
 driver.find_element(By.ID, 'logIn').click()
 time.sleep(20)
